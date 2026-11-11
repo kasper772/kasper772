@@ -21,7 +21,7 @@ run and explain tests.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat)
-![Batch](https://img.shields.io/badge/Batch-4D4D4D?style=flat)
+![Windows Batch](https://img.shields.io/badge/Windows_Batch-4D4D4D?style=flat)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-663399?style=flat&logo=css&logoColor=white)
 
@@ -32,6 +32,7 @@ run and explain tests.
 ![Appium](https://img.shields.io/badge/Appium-662CF0?style=flat&logo=appium&logoColor=white)
 ![Appium Inspector](https://img.shields.io/badge/Appium_Inspector-662CF0?style=flat&logo=appium&logoColor=white)
 ![WinAppDriver](https://img.shields.io/badge/WinAppDriver-0078D4?style=flat)
+![Windows UI Automation](https://img.shields.io/badge/Windows_UI_Automation-0078D4?style=flat)
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=xcode&logoColor=white)
 
 **API testing**  
@@ -45,7 +46,8 @@ run and explain tests.
 ![TestNG](https://img.shields.io/badge/TestNG-CD6E32?style=flat)
 ![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=flat&logo=cucumber&logoColor=black)
 
-**Test management & reporting**  
+**Test management, reporting & bug tracking**  
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
 ![Zephyr](https://img.shields.io/badge/Zephyr-0052CC?style=flat)
 ![TestRail](https://img.shields.io/badge/TestRail-65C179?style=flat)
 ![Allure](https://img.shields.io/badge/Allure-FF6B00?style=flat)
@@ -91,7 +93,6 @@ run and explain tests.
 
 **Collaboration & tools**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=confluence&logoColor=white)
 ![Chrome DevTools](https://img.shields.io/badge/Chrome_DevTools-4285F4?style=flat&logo=googlechrome&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
